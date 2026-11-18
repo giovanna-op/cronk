@@ -1,10 +1,5 @@
 # Cronk: a cron-json translator
 
-> [!IMPORTANT]
-> **Attending the OpenSSF Scorecard Supply-Chain Security Workshop?**
-> Start here: **[`WORKSHOP.md`](WORKSHOP.md)** for the step-by-step hands-on exercises and checkpoint guide.
-> Instructors can refer to **[`docs/INSTRUCTOR_GUIDE.md`](docs/INSTRUCTOR_GUIDE.md)**.
-
 ---
 
 _This repository is an educational project for learning software supply-chain security with OpenSSF Scorecard and SLSA. It is meant for demonstrative purposes and should not be used in production!_
@@ -13,8 +8,8 @@ _All project backstory beyond this point is fictional!_
 
 ---
 
-- **Student:** Alice Doe (`@nebraska-dev`), 2018Q4
-- **Course:** CS 101: Introduction to Systems & Automation @ Cottonwood University _(Cottonwood is the Nebraska state tree)_
+- **Student:** Giovanna de O. Pinheiro, 2026.2
+- **Course:** MAC0696 - Cibersegurança e Privacidade @ University of São Paulo (USP)
 
 Cronk allows developers to convert files between the `crontab` and `json` formats.
 
